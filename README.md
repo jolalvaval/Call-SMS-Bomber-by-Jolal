@@ -5,7 +5,7 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
 
 pkg install git
 
-git clone https://github.com/jolalvaval/Call-and-SMS-Bomber
+git clone https://github.com/jolalvaval/Call-SMS-Bomber-by-Jolal
 
 cd Call-and-SMS-Bomber
 
